@@ -1,8 +1,23 @@
 {
+  "name": "tapd-back-end-package-json",
+  "author": "teodoro",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "8.11.2"
+ 
+}
+{
     "name": "package",
     "version": "1.0.0",
     "description": "A description of my project",
-    "author": "Teodoro Arnaldo",
+    "author": "Teodoro",
     "license": "MIT",
     "keywords": ["keyword1", "keyword2"],
    
