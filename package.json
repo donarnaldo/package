@@ -14,27 +14,4 @@
  
 }
 {
-    "name": "package",
-    "version": "1.0.0",
-    "description": "A description of my project",
-    "author": "Teodoro",
-    "license": "MIT",
-    "keywords": ["keyword1", "keyword2"],
-   
-    "dependencies": {
-      "dependency1": "^1.0.0",
-      "dependency2": "^2.3.1"
-    },
-    "devDependencies": {
-      "devDependency1": "^1.2.0",
-      "devDependency2": "^0.5.0"
-    },
-    "scripts": {
-      "start": "node index.js",
-      "test": "mocha"
-    },
-    "engines": {
-      "node": ">=12.0.0",
-      "npm": ">=6.0.0"
-    }
-  }
+    
